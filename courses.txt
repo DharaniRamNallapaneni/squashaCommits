@@ -1,3 +1,6 @@
 git
 jenkins
 ansible
+terraform
+containers
+k8s
